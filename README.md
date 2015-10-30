@@ -1,2 +1,2 @@
 # owebshop
-Webshop solution for OFBiz
+Webshop solution for Apache OFBiz™
